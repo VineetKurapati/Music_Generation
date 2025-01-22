@@ -62,9 +62,3 @@ The application logs all activities, including errors and successful operations,
 
 Enjoy your music generation journey!
 
-### Notes:
-1. Replace `"yourusername"` in the GitHub clone URL in the `README.md` with your GitHub username if you plan to host this on GitHub.
-2. Ensure `ffmpeg` is installed and in your system PATH since it is required for `pydub` to handle audio playback.
-3. The `transformers` library version mentioned is the latest stable version as of this writing. You can adjust it based on your needs.
-
-Let me know if you'd like further assistance!

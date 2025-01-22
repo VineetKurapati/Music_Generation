@@ -64,16 +64,6 @@ The application logs all activities, including errors and successful operations,
 Enjoy your music generation journey!
 ```
 
----
-
-### `requirements.txt`
-
-```plaintext
-transformers==4.35.0
-pydub==0.25.1
-scipy==1.11.3
-```
-
 ### Notes:
 1. Replace `"yourusername"` in the GitHub clone URL in the `README.md` with your GitHub username if you plan to host this on GitHub.
 2. Ensure `ffmpeg` is installed and in your system PATH since it is required for `pydub` to handle audio playback.

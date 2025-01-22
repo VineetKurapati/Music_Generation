@@ -1,5 +1,3 @@
-### `README.md`
-
 # Music Generation Application 🎵
 
 This is a graphical user interface (GUI) application for generating music using natural language prompts. The application uses transformer-based models from the Hugging Face library to generate audio files based on user-provided descriptions.

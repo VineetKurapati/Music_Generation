@@ -1,6 +1,5 @@
 ### `README.md`
 
-```markdown
 # Music Generation Application 🎵
 
 This is a graphical user interface (GUI) application for generating music using natural language prompts. The application uses transformer-based models from the Hugging Face library to generate audio files based on user-provided descriptions.
@@ -25,7 +24,7 @@ This is a graphical user interface (GUI) application for generating music using 
 3. Run the application:
    ```bash
    python app.py
-   ```
+
 4. Enter a prompt in the text box (e.g., "A relaxing piano melody").
 5. Select a model from the dropdown menu.
 6. Click **Generate Music**.

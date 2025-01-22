@@ -61,7 +61,6 @@ The application logs all activities, including errors and successful operations,
 ---
 
 Enjoy your music generation journey!
-```
 
 ### Notes:
 1. Replace `"yourusername"` in the GitHub clone URL in the `README.md` with your GitHub username if you plan to host this on GitHub.
